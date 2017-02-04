@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732257369989",
+    "firebase_url": "https://bloodlife-b5613.firebaseio.com",
+    "project_id": "bloodlife-b5613",
+    "storage_bucket": "bloodlife-b5613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732257369989:android:09101450e0141682",
+        "android_client_info": {
+          "package_name": "com.example.shyam.bloodlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732257369989-2hllng6voo4hr5s96jpqpuqs93hdfvj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shyam.bloodlife",
+            "certificate_hash": "9AB9D7CE21B37D8B90BB2961B382BF28381B91CE"
+          }
+        },
+        {
+          "client_id": "732257369989-hifmpmpliae99i6i4tb5u0adj0ilsnsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-mp5mST8SS0_0MZl-ajSSHYXLZUSHWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732257369989-hifmpmpliae99i6i4tb5u0adj0ilsnsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

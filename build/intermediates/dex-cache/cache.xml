@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_660587cc45fd80484f32c6c0da47f1bb6603ead7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_f36f49af833f8951f969a49bf46486e842fcff4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_bbdb0bcf6422c9fb5d7435b4dca1b654d580e016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.0_9b4a313a40732cb1b520e5ce9a4c7e697ebc1429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0644601aa1af7b8613e8df67ef3e2ea823c737bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.0_1e22c1fbc87522ee46aa364e06eef78e49267804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/okio-1.6.0_3abb799e715550c23964199cb2188843ed91140e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.0_5e6efe9419e99bd847ca932492d0f01f7cd2a2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/gson-2.6.2_5399b95d8a386835c3c33994125f16d10ab05340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_00e822674112b030a11669a5f7172c55ce04aec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_b261538ecc01bf5bf322d3c7f4130478610be3f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.0_a00f6f0fcd8bfa3f3444344fb4a1be62effb56b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.0_9109a4221840e691070b090db0ed8825337f1cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_296689d73fdfeea926f3f1c7ddc42bf88c6ca38c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_66648275bace6cfe5d2a2d7e421cfad9fffa7f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_93fb7e35ca651a564d6c715cd72d81b95dc6c961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.0_3f30dd9d212ddb3af051e2608c694262e44dad6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d1ddb88dc88d95a41f4040945be83aaae51d371b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_faf28400f5945f42127af0d53a82c588d923a386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_b2cfdcee3c0b025326e8a5d853f03aa66425468a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.0_893154717cddafe13a83e9c81d6d76cb9a1acc9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_79ae8746e371b5b2ef21bf7b57b7e578e01ed124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_a74a77425555f49faee6f1fdaa408002141b81cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_b554829e708050b866978334a3d8bff6f87a3bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_9747a8bc4cc8deb87295e94ef646e934d869cb22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0_9bf82270a35f9094d17895825fea4a9f965f666c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_651fc1e56e02905b90e8f0ccad6f61ee0cf3972a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_21abe95011f0327ffbe5b450f29857442637bb1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5758211447373b61484729b57148681c2ba17809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_4972ba4678737e5cd7b187fad8987b175a2ac99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_2cc2fb888fc090102406d9a29a3a8f4fcdffa77a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shyam/BloodLife/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/home/shyam/BloodLife/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_89cd4bc1c1ec7381ddd5fd932ba7178e8158d2ae.jar" />
+    </item>
+
+</items>
